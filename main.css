@@ -1,0 +1,36 @@
+body{ 
+  background-color: rgb(240, 164, 237);
+}
+
+h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: white;
+}
+
+main{
+  color: white;
+}
+
+#School{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px;
+}
+
+#Nanny{
+  font-family:Arial, Helvetica, sans-serif;
+  padding:10px;
+}
+
+#Massage{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 10px;
+}
+
+time{
+  float: right;
+}
+
+footer{
+  padding: 10px;
+}
