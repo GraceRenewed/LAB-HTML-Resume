@@ -5,33 +5,44 @@ body{
 h1{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
-  color: white;
+  color: rgb(142, 51, 228);
+}
+
+h4{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: rgb(142, 51, 228);
 }
 
 main{
-  color: white;
+  color: whitesmoke;
 }
 
 #School{
-  border: solid 2px rgb(145, 101, 145);
-  border-spacing: 15px;
+  border: inset 2px rgb(255, 192, 255);
+  border-spacing: 25px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
+  margin: 10px;
 }
 
 #Nanny{
-  border: solid 2px rgb(145, 101, 145);
-  border-spacing: 15px;
+  border: outset 3px pink;
+  border-spacing: 25px;
   font-family:Arial, Helvetica, sans-serif;
   padding: 10px;
+  margin: 10px;
 }
 
 #Massage{
-  border: solid 2px rgb(145, 101, 145);
+  border: solid 4px rgb(231, 187, 231);
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 10px;
+  margin: 10px;
 }
-
+header{
+  color: blueviolet;
+}
 time{
   float: right;
 }
